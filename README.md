@@ -22,4 +22,4 @@ Dataset Used
 
 we are mainly interested in operation side of Data Engineering (building data pipeline)
 
-Dataset used in Project - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+Dataset used in Project - indexProcessed[1].csv
